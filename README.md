@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/cotybro/NFT-Component)
-- Live Site URL: [:ive site](https://nft-component-gules.vercel.app/)
+- Live Site URL: [Live site](https://nft-component-gules.vercel.app/)
 
 ## My process
 
